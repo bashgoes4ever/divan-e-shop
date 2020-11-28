@@ -25,7 +25,7 @@ SECRET_KEY = '1geovop_&@z)+67rz$m(tlsz=eo1uctip8sj94589@@eawbla='
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 # Application definition
 
@@ -156,7 +156,7 @@ CORS_ALLOW_HEADERS = [
     'accept-version'
 ]
 
-# try:
-#     from .prod_settings import *
-# except ImportError:
-#     pass
+try:
+    from .prod_settings import *
+except ImportError:
+    pass
