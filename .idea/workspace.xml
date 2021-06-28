@@ -3,6 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="f4f758f8-f7d3-4cb8-80d0-c337d6eabaec" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/prod_settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/server/prod_settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/server/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,7 +111,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Taptima/gorky" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -160,6 +163,14 @@
       <updated>1598168306731</updated>
       <workItem from="1622794676051" duration="19000" />
       <workItem from="1622802828736" duration="1254000" />
+      <workItem from="1623777400981" duration="9600000" />
+      <workItem from="1623831110858" duration="133000" />
+      <workItem from="1623857078645" duration="3609000" />
+      <workItem from="1623862380701" duration="444000" />
+      <workItem from="1623865117586" duration="1010000" />
+      <workItem from="1623951085662" duration="3290000" />
+      <workItem from="1624024151137" duration="83000" />
+      <workItem from="1624868234414" duration="2131000" />
     </task>
     <servers />
   </component>
@@ -192,9 +203,6 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/server/settings.py">
